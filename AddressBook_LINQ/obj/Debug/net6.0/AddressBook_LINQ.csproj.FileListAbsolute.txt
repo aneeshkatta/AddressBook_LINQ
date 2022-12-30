@@ -1,0 +1,15 @@
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\bin\Debug\net6.0\AddressBook_LINQ.exe
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\bin\Debug\net6.0\AddressBook_LINQ.deps.json
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\bin\Debug\net6.0\AddressBook_LINQ.runtimeconfig.json
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\bin\Debug\net6.0\AddressBook_LINQ.dll
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\bin\Debug\net6.0\AddressBook_LINQ.pdb
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\obj\Debug\net6.0\AddressBook_LINQ.csproj.AssemblyReference.cache
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\obj\Debug\net6.0\AddressBook_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\obj\Debug\net6.0\AddressBook_LINQ.AssemblyInfoInputs.cache
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\obj\Debug\net6.0\AddressBook_LINQ.AssemblyInfo.cs
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\obj\Debug\net6.0\AddressBook_LINQ.csproj.CoreCompileInputs.cache
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\obj\Debug\net6.0\AddressBook_LINQ.dll
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\obj\Debug\net6.0\refint\AddressBook_LINQ.dll
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\obj\Debug\net6.0\AddressBook_LINQ.pdb
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\obj\Debug\net6.0\AddressBook_LINQ.genruntimeconfig.cache
+E:\New folder\AddressBook_LINQ\AddressBook_LINQ\obj\Debug\net6.0\ref\AddressBook_LINQ.dll
